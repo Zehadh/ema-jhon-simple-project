@@ -1,0 +1,17 @@
+.cart p{
+    line-height: 2px;
+}
+h3{
+    color : #b12704;
+}
+h2,h4{
+    text-align: center;
+}
+.review-button{
+    text-align: center;
+    background-color: goldenrod;
+    height : 30px;
+    width: 200px;
+    border: 1px solid gray;
+    border-radius: 5px;
+}
